@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Nom de l'extension",
+    "description": "Description courte de l'extension",
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    
+    "version": "0.0.0.0",
+    "icons": { "128": "Nom du dosier/Nom de l'image.Format de l'image" },
+    
+    "browser_action": {
+      "default_icon": "Nom du dosier/Nom de l'image.Format de l'image",
+      "default_popup": "Nom du fichier.html"
+    }
+}
